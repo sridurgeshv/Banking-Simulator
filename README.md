@@ -4,7 +4,7 @@
     <div style="font-family: Arial, sans-serif; background-color: #f0f0f0; margin: 0; padding: 0;">
         <div style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); border-radius: 10px;">
             <h1 style="color: #1fa0ff; text-align: center;">Personal Banking Website</h1>
-            <p style="font-size: 18px; text-align: center;">Manage your personal bank account with ease. Perform actions such as depositing money, withdrawing funds, and checking your account balance.</p>
+            <p style="font-size: 18px; text-align: center;">This platform provides a user friendly interface for you to effortlessly handle your personal banking. You have the flexibility to carry out multiple tasks, like depositing funds, making withdrawals and checking your account balance.</p>
             <h2 style="color: #1fa0ff;">How to Use the Website</h2>
             <ul style="list-style: none; padding: 0;">
                 <li style="margin-bottom: 10px;"><strong style="color: #1fa0ff;">Access the Website:</strong> Open the provided HTML file, <code>index.html</code>, in a web browser.</li>
