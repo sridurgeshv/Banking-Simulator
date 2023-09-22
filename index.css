@@ -1,0 +1,64 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Apply a background color and set fonts */
+body {
+    background-image: url('./images/bg.jpg'), linear-gradient(to right, #d3f5cf, #a8dbfa, #635ee2);
+    background-size: 50% 1000%, 50% 1000%; /* Set the background sizes for both */
+    background-repeat: no-repeat, no-repeat;
+    background-position: right, left; /* Set background position for the image and colors */
+}
+
+/* Style the header */
+h1 {
+    text-align: left;
+    padding: 50px;
+    color: #000;
+}
+
+/* Style buttons */
+.button1, .button2, .button3 {
+    /* Add styles for the buttons */
+    box-shadow: 0 4px 8px 0 rgb(255, 248, 248);
+    width: 20%;
+    height: 75px;
+    padding: 10px;
+    background-color: #1fa0ff;
+    font-size: 25px;
+    color: #fff;
+    border-radius: 25px;
+    cursor: pointer;
+    font-family: "Georgia", sans-serif;
+    transition: background-color 0.2s, left 3s; /* Transition left property over 3 seconds (you can adjust the duration) */
+    position: absolute; /* Position buttons absolutely */
+}
+
+/* Set individual initial positions for each button to the left */
+.button1 {
+    top: 250px;
+    right: 450px; /* Initially position button off-screen to the left */
+}
+
+.button2 {
+    top: 400px;
+    right: 450px; /* Initially position button off-screen to the left */
+}
+
+.button3 {
+    top: 550px;
+    right: 450px; /* Initially position button off-screen to the left */
+}
+
+/* Hover effect */
+.button1:hover, .button2:hover, .button3:hover {
+    background-color: #0056B3;
+}
+
+/* Apply a class to move buttons to the right */
+.moveRight {
+    left: 100px; /* Move buttons to the right */
+}
