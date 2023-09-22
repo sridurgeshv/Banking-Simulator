@@ -27,7 +27,7 @@
             <p style="text-align: center; margin-top: 20px;">
     The application can be accessed by navigating to the following link:
                 <br>
-   <a href="https://finance-cfc9e.web.app" style="color: #1fa0ff; text-decoration: none;">Managing Finances</a>
+   <a href="https://finance-cfc9e.web.app" style="color: #1fa0ff; text-decoration: none;">Financial Management</a>
 </p>
      </div>
     </div>
