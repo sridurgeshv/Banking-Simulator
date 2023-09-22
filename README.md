@@ -8,7 +8,7 @@
             <h2 style="color: #1fa0ff;">How to Use the Website</h2>
             <ul style="list-style: none; padding: 0;">
                 <li style="margin-bottom: 10px;"><strong style="color: #1fa0ff;">Access the Website:</strong> Open the provided HTML file, <code>index.html</code>, in a web browser.</li>
-                <li style="margin-bottom: 10px;"><strong style="color: #1fa0ff;">Homepage:</strong> You'll see a webpage titled "Financial Account Administration" with a background image and a heading that says "Welcome to Your Personal Banking Account."</li>
+                <li style="margin-bottom: 10px;"><strong style="color: #1fa0ff;">Homepage:</strong> You'll see a webpage titled "Financial Management" with a background image and a heading that says "Welcome to Your Personal Banking Account."</li>
                 <li style="margin-bottom: 10px;"><strong style="color: #1fa0ff;">Buttons:</strong> There are three buttons:</li>
                 <ul style="list-style: none; padding: 0;">
                     <li style="margin-bottom: 10px;"><strong style="color: #1fa0ff;">Deposit:</strong> Click this button to deposit money into your account. You will be prompted to enter the deposit amount. If the input is valid (a positive number), the deposit will be made, and a success message will appear. If there's an error (e.g., negative input or invalid characters), an error message will be displayed.</li>
@@ -27,7 +27,7 @@
             <p style="text-align: center; margin-top: 20px;">
     The application can be accessed by navigating to the following link:
                 <br>
-   <a href="https://finance-cfc9e.web.app" style="color: #1fa0ff; text-decoration: none;">Financial Management</a>
+   <a href="https://sunny-finances.web.app" style="color: #1fa0ff; text-decoration: none;">Financial Management</a>
 </p>
      </div>
     </div>
