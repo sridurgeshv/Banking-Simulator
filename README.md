@@ -3,7 +3,7 @@
 <body>
     <div style="font-family: Arial, sans-serif; background-color: #f0f0f0; margin: 0; padding: 0;">
         <div style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); border-radius: 10px;">
-            <h1 style="color: #1fa0ff; text-align: center;">Managing-Financial-Accounts</h1>
+            <h1 style="color: #1fa0ff; text-align: center;">Financial Management</h1>
             <p style="font-size: 18px; text-align: center;">This platform provides a user friendly interface for you to effortlessly handle your personal banking. You have the flexibility to carry out multiple tasks, like depositing funds, making withdrawals and checking your account balance.</p>
             <h2 style="color: #1fa0ff;">How to Use the Website</h2>
             <ul style="list-style: none; padding: 0;">
@@ -27,7 +27,7 @@
             <p style="text-align: center; margin-top: 20px;">
     The application can be accessed by navigating to the following link:
                 <br>
-   <a href="https://finance-cfc9e.web.app" style="color: #1fa0ff; text-decoration: none;">Link to Site</a>
+   <a href="https://finance-cfc9e.web.app" style="color: #1fa0ff; text-decoration: none;">Managing Finances</a>
 </p>
      </div>
     </div>
